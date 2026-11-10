@@ -1,5 +1,7 @@
 # Android-Debloation-Script
 
+![Last Commit](https://shields.io)
+
 A simple way to debloat your Android Device With a Single click.
 
 ---
