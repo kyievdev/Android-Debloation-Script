@@ -1,6 +1,7 @@
 # Android-Debloation-Script
 
-![Last Commit](https://shields.io)
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/kyievdev/Android-Debloation-Script/main)
+
 
 A simple way to debloat your Android Device With a Single click.
 
