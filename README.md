@@ -35,7 +35,7 @@ Click [Here](https://dl.google.com/android/repository/platform-tools-latest-wind
 * Google Meet
 * Mobile Device Information Provider (smth related to Kindle, nothing important.)
 * OneDrive
-* Samsung Intelligent Voice Services (most definitely tts) + Dependencies (languages, no Device language packs are deleted.)
+* Samsung Intelligent Voice Services (most definitely tts) + Dependencies (languages, None of the Device language packs are deleted.)
 * Samsung Kids Installer
 * SettingsBixby (not useful if you don't have bixby anywhere on the device)
 * Sticker Center
