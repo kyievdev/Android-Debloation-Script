@@ -16,7 +16,7 @@ A simple way to debloat your Android Device With a Single click.
 * USB Debugging And developer options enabled
 ---
 Click [Here](https://dl.google.com/android/repository/platform-tools-latest-windows.zip) to install the required ADB tools.
-# WHAT IS DELETED BASED OFF OF THE DEVICE MANUFACTURERS:
+# WHAT IS DELETED BASED OFF OF THE DEVICES MANUFACTURER:
 
 ## SAMSUNG:
 
