@@ -40,5 +40,6 @@ Click [Here](https://dl.google.com/android/repository/platform-tools-latest-wind
 * SettingsBixby (not useful if you don't have bixby anywhere on the device)
 * Sticker Center
 * User Guide
+* Facebook + Dependencies 
 * Voice Access (Voice Access Helps anyone who has difficulty manipulating a touch screen (e.g. due to paralysis, tremor, or temporary injury)
 ---
