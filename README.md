@@ -1,7 +1,9 @@
 # Android-Debloation-Script
 
-![GitHub last commit (branch)](https://img.shields.io/github/last-commit/kyievdev/Android-Debloation-Script/main) ![GitHub License](https://img.shields.io/github/license/kyievdev/Android-Debloation-Script?style=flat)
+![GitHub last commit](https://img.shields.io/github/last-commit/kyievdev/Android-Debloation-Script?style=for-the-badge)
 
+
+![GitHub License](https://img.shields.io/github/license/kyievdev/Android-Debloation-Script?style=for-the-badge)
 
 
 
